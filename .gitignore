@@ -1,0 +1,48 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Cache
+data/ipinyou_processed.csv
+data/synthetic_rtb.csv
+*.pkl
+*.cache
+.cache/
+
+# Kaggle
+.kaggle/
+
+# Test files
+test_*.py
+explore_*.py
+analyze_*.py
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
