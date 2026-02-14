@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+venv/
+env/
+# Massive datasets
+dataset/
+*.parquet
+merged_training_data.parquet # Explicitly ignore the 50MB file to keep repo clean
+*.pkl # Ignore model artifacts (usually tracked by DVC/GitLFS, but simple git for now)
+# But user might want models if small. 8MB is fine.
+# Let's keep PKL but exclude parquet and dataset folder.

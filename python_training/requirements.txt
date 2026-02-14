@@ -1,0 +1,6 @@
+polars
+mmh3
+scikit-learn
+numpy
+pandas
+scipy
