@@ -1,6 +1,6 @@
 # RTB DSP Optimization Challenge - Official Submission
 
-**Team/Student Name**: [Your Name Here]  
+**Team/Student Name**: [Agrim Bajpau]
 **Challenge**: Real-Time Bidding (RTB) - DSP Optimization  
 **Package**: `com.dtu.hackathon.bidding`  
 **Class**: `Bid`
