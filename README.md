@@ -1,6 +1,6 @@
 # RTB DSP Optimization Engine
 
-This project implements a High-Frequency Real-Time Bidding (RTB) engine for the DTU Hackathon.
+This project implements a High-Frequency Real-Time Bidding (RTB) engine.
 It consists of an offline **Python Training Pipeline** and an ultra-low-latency **Java Inference Engine**.
 
 ## Directory Structure
